@@ -1,10 +1,10 @@
+
 import React from 'react'
 
 const page = () => {
   return (
-    <div>Home page</div>
+    <div>Homepage manishd devka</div>
   )
 }
 
-export default page
-
+export default page    
